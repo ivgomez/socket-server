@@ -1,0 +1,12 @@
+
+npm install -g typescript
+npm install @types/express --save-dev
+npm install @types/cors --save-dev
+
+C:\Users\admin\Desktop\AngularSockets\01-server>:[
+    nodemon /dist
+]
+
+C:\Users\admin\Desktop\AngularSockets\01-server>:[
+    tsc -w
+]
