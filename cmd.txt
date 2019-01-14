@@ -10,3 +10,14 @@ C:\Users\admin\Desktop\AngularSockets\01-server>:[
 C:\Users\admin\Desktop\AngularSockets\01-server>:[
     tsc -w
 ]
+
+Socket IO
+npm install --save socket.io
+npm install @types/socket.io --save-dev
+
+
+LINKS: [
+    https://nodemon.io
+    https://www.npmjs.com/package/cors
+    https://socket.io
+]
